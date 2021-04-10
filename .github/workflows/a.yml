@@ -11,6 +11,6 @@ jobs:
     name: dfgarciac1
     runs-on: ubuntu-latest
     steps:
-      - uses: dfgarciac1/dfgarciac1/blob/main/README.md
+      - uses: dfgarciac1/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
