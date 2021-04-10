@@ -10,7 +10,7 @@ Men i love typescript 😎😎😎
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/david-garcia-a857181bb/)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](www.linkedin.com/in/david-felipe-garcia-contreras-a857181bb)  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfgarciac1&langs_count=10&show_icons=true&theme=prussian&layout=compact&hide_border=true&count_private=true)
