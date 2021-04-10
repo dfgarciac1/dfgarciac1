@@ -9,7 +9,8 @@
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfgarciac1&langs_count=10&show_icons=true&theme=prussian&layout=compact&hide_border=true&count_private=true)
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfgarciac1&langs_count=10&show_icons=true&theme=prussian&layout=compact&hide_border=true&count_private=true)
