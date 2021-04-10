@@ -13,4 +13,9 @@
 
 
 <!--START_SECTION:waka-->
+```text
+SCSS         4 hrs 21 mins   ████████████▓░░░░░░░░░░░░   50.96 % 
+TypeScript   4 hrs 6 mins    ████████████░░░░░░░░░░░░░   47.99 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+```
 <!--END_SECTION:waka-->
