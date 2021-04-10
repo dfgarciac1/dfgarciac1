@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Men i love type 
+Men i love typescript 😎😎😎 
 
 |      Project :octocat:   |      :star2:   |  |  |
 |-------------|-------------------|---|---|
