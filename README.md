@@ -10,7 +10,7 @@ Men i love typescript 😎😎😎
 
 ### Find me elsewhere 🌎
 
-<a href="https://www.linkedin.com/in/david-felipe-garcia-contreras/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.linkedin.com/in/david-felipe-garcia-contreras/" target="_blank"><img src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png" alt="LinkedIn" width="30"></a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfgarciac1&langs_count=10&show_icons=true&theme=prussian&layout=compact&hide_border=true&count_private=true)
