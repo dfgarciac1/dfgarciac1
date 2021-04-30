@@ -18,7 +18,7 @@ Men i love typescript 😎😎😎
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
 JavaScript   10 mins         ███████████████████████▒░   93.11 % 
 ```
