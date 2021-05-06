@@ -18,6 +18,8 @@ Men i love typescript 😎😎😎
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 28 April, 2021 - 05 May, 2021
+
+R     24 mins         █████████████████████████   99.57 % 
 ```
 <!--END_SECTION:waka-->
