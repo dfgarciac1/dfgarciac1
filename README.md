@@ -18,9 +18,6 @@ Men i love typescript 😎😎😎
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 June, 2021 - 18 June, 2021
-
-Go           3 mins          █████████████▒░░░░░░░░░░░   53.73 % 
-JavaScript   2 mins          ███████████▓░░░░░░░░░░░░░   46.27 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
