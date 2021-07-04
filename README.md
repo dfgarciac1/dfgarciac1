@@ -18,6 +18,8 @@ Men i love typescript 😎😎😎
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 June, 2021 - 03 July, 2021
+
+
 ```
 <!--END_SECTION:waka-->
